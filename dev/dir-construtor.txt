@@ -1,0 +1,32 @@
+
+D:/code-store/nodejs/vue-spa-test-by-jest-starter
+|--README.md
+|--dist
+| |--build.js
+| |--build.js.map
+|--index.html
+|--jest.config.js
+|--node_modules
+|--note
+| |--changelog.md
+| |--dir-construtor.md
+| |--reference.md
+| |--tech.md
+|--package-lock.json
+|--package.json
+|--src
+| |--App.vue
+| |--components
+| | |--List.vue
+| | |--Message.vue
+| | |--MessageToggle.vue
+| |--main.js
+|--test
+| |--List.spec.js
+| |--Message.spec.js
+| |--MessageToggle.spec.js
+| |--__snapshots__
+| |--List.spec.js.snap
+|--webpack.config.js
+7 directories
+21 files
